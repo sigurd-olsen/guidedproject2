@@ -1,0 +1,15 @@
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\bin\Debug\net8.0\Starter.exe
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\bin\Debug\net8.0\Starter.dll
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\bin\Debug\net8.0\Starter.pdb
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\Starter.dll
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\Starter.pdb
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\sigur\OneDrive - University of Bergen\ITOK\code_camp_c#\CsharpProjects\guidedproject2\Starter\obj\Debug\net8.0\ref\Starter.dll
